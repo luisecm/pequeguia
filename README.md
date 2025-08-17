@@ -148,7 +148,7 @@ src/
 - **Comunidad local**: Focus en eventos y lugares de la ciudad específica
 - **Experiencia móvil optimizada**: Diseñado para consulta rápida sobre la marcha
 
-- ## 💡 **Screenshots**
+## 📱 **Screenshots**
 
 <img width="461" height="899" alt="image" src="https://github.com/user-attachments/assets/1c9dc86e-25b6-4afc-aaba-1cb03ea6f4f0" />
 
