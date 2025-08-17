@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "PequeGuía",
+    "slug": "pequeguia",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.pequeguia.app"
+    },
+    "android": {
+      "package": "com.pequeguia.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
