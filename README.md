@@ -148,12 +148,15 @@ src/
 - **Comunidad local**: Focus en eventos y lugares de la ciudad específica
 - **Experiencia móvil optimizada**: Diseñado para consulta rápida sobre la marcha
 
-## 📞 **Soporte**
+- ## 💡 **Screenshots**
 
-Para soporte técnico o sugerencias, contacta a través de:
-- Email: soporte@pequeguia.com
-- GitHub Issues: [Reportar problema]
+<img width="461" height="899" alt="image" src="https://github.com/user-attachments/assets/1c9dc86e-25b6-4afc-aaba-1cb03ea6f4f0" />
+
+<img width="480" height="946" alt="image" src="https://github.com/user-attachments/assets/6abfaff4-865a-4c4a-afc2-98932eedea29" />
+
+<img width="433" height="890" alt="image" src="https://github.com/user-attachments/assets/02e5edee-9c29-49df-b5bc-3f6af64bdb68" />
+
+<img width="446" height="891" alt="image" src="https://github.com/user-attachments/assets/f361a980-9ef4-4048-a257-0ce0928eb6fa" />
+
 
 ---
-
-**PequeGuía** - *Tu compañero ideal para aventuras familiares* 🌟
